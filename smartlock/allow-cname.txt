@@ -1,0 +1,7 @@
+Autodesk
+Sysinternals
+Python
+Ultimaker
+The Qt
+JetBrains
+Jet Brains

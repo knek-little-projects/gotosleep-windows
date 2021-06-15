@@ -1,0 +1,73 @@
+C:\Users\qwe\AppData\Local\Autodesk\webdeploy\production\6a0c9611291d45bb9226980209917c3d\FusionLauncher.exe
+C:\Windows\System32\conhost.exe
+C:\Users\qwe\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar.unpacked\node-pty\build\Release\winpty-agent.exe
+C:\Users\qwe\AppData\Local\Autodesk\webdeploy\production\c1a39fe96c80078ad566b938d0f03989f4b85b09\adexmtsv.exe
+C:\Windows\System32\conhost.exe
+C:\Windows\System32\cmd.exe
+C:\Program Files (x86)\Cura_14.07\python\pythonw.exe
+C:\Users\qwe\AppData\Local\Programs\Microsoft VS Code\Code.exe
+C:\Program Files (x86)\DAEMON Tools Lite\DTLite.exe
+C:\Windows\System32\hkcmd.exe
+C:\Windows\System32\igfxpers.exe
+C:\Windows\explorer.exe
+C:\Windows\System32\taskhost.exe
+C:\Windows\System32\conhost.exe
+C:\Windows\System32\conhost.exe
+C:\Windows\System32\dwm.exe
+C:\Program Files\Ultimaker Cura 4.8.0\CuraEngine.exe
+C:\Program Files\Ultimaker Cura 4.8.0\Cura.exe
+C:\Users\qwe\AppData\Local\Autodesk\webdeploy\production\c1a39fe96c80078ad566b938d0f03989f4b85b09\WIN64\AdCefWebBrowser.exe
+C:\Users\qwe\AppData\Local\Autodesk\webdeploy\production\c1a39fe96c80078ad566b938d0f03989f4b85b09\Fusion360.exe
+C:\Users\qwe\AppData\Local\Programs\Microsoft VS Code\Code.exe
+C:\Users\qwe\AppData\Local\Autodesk\webdeploy\production\c1a39fe96c80078ad566b938d0f03989f4b85b09\WIN64\AdCefWebBrowser.exe
+C:\Users\qwe\AppData\Local\Autodesk\webdeploy\production\c1a39fe96c80078ad566b938d0f03989f4b85b09\WIN64\AdCefWebBrowser.exe
+C:\Users\qwe\AppData\Local\Autodesk\webdeploy\production\c1a39fe96c80078ad566b938d0f03989f4b85b09\WIN64\AdCefWebBrowser.exe
+C:\Users\qwe\AppData\Local\Autodesk\webdeploy\production\c1a39fe96c80078ad566b938d0f03989f4b85b09\QtWebEngineProcess.exe
+C:\Users\qwe\AppData\Local\Autodesk\webdeploy\production\c1a39fe96c80078ad566b938d0f03989f4b85b09\QtWebEngineProcess.exe
+C:\Users\qwe\AppData\Local\Programs\Microsoft VS Code\Code.exe
+C:\Users\qwe\AppData\Local\Autodesk\webdeploy\production\c1a39fe96c80078ad566b938d0f03989f4b85b09\QtWebEngineProcess.exe
+C:\Windows\System32\cmd.exe
+C:\Program Files\Python37\python.exe
+C:\procexp\procexp\PROCEXP64.exe
+C:\Users\qwe\AppData\Local\Autodesk\webdeploy\production\c1a39fe96c80078ad566b938d0f03989f4b85b09\QtWebEngineProcess.exe
+C:\Users\qwe\AppData\Local\Programs\Microsoft VS Code\Code.exe
+C:\Users\qwe\AppData\Local\Programs\Microsoft VS Code\Code.exe
+C:\Users\qwe\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\platform\files\node\watcher\win32\CodeHelper.exe
+C:\Windows\System32\conhost.exe
+C:\Users\qwe\AppData\Local\Programs\Microsoft VS Code\Code.exe
+C:\Users\qwe\AppData\Local\Programs\Microsoft VS Code\Code.exe
+C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+C:\Program Files\Python37\python.exe
+C:\Program Files\Python37\python.exe
+C:\Windows\System32\conhost.exe
+C:\Windows\System32\conhost.exe
+C:\Program Files\Python37\python.exe
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+C:\Windows\explorer.exe
+C:\Windows\System32\dwm.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\procexp\procexp\PROCEXP64.exe
+C:\procexp\procexp\procexp.exe
+C:\Windows\System32\conhost.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Windows\System32\taskhost.exe
+C:\Windows\System32\hkcmd.exe
+C:\Program Files (x86)\Notepad++\notepad++.exe
+C:\Program Files (x86)\DAEMON Tools Lite\DTLite.exe
+C:\Windows\System32\igfxpers.exe
+C:\Program Files\Android\Android Studio\bin\fsnotifier64.exe
+C:\Users\qwe\AppData\Local\Android\Sdk\emulator\emulator.exe
+C:\Users\qwe\AppData\Local\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-i386.exe
+C:\Windows\System32\cmd.exe
+C:\Users\qwe\AppData\Local\Android\Sdk\emulator\emulator64-crash-service.exe
+C:\Program Files\Android\Android Studio\jre\bin\java.exe
+C:\Users\qwe\AppData\Local\Android\Sdk\platform-tools\adb.exe
+C:\Users\qwe\AppData\Local\Android\Sdk\platform-tools\adb.exe
+C:\Users\qwe\AppData\Local\Android\Sdk\platform-tools\dmtracedump.exe
+C:\Users\qwe\AppData\Local\Android\Sdk\platform-tools\etc1tool.exe
+C:\Users\qwe\AppData\Local\Android\Sdk\platform-tools\fastboot.exe
+C:\Users\qwe\AppData\Local\Android\Sdk\platform-tools\hprof-conv.exe
+C:\Users\qwe\AppData\Local\Android\Sdk\platform-tools\make_f2fs.exe
+C:\Users\qwe\AppData\Local\Android\Sdk\platform-tools\mke2fs.exe
+C:\Users\qwe\AppData\Local\Android\Sdk\platform-tools\sqlite3.exe
